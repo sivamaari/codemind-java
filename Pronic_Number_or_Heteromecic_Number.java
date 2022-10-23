@@ -1,5 +1,5 @@
 import java.util.*;
-class main 
+class main
 {
     public static void main(String args[])
     {
@@ -12,8 +12,8 @@ class main
             ans=1;
         }
         if(ans==1)
-           System.out.println("YES");
+        System.out.println("YES");
         else
-           System.out.println("NO");
+        System.out.println("NO");
     }
 }
